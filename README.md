@@ -1,5 +1,7 @@
 # kickstart.nvim
 
+Follow this for a walkthrough - https://www.youtube.com/watch?v=m8C0Cq9Uv9o&t=534s
+
 ## Introduction
 
 A starting point for Neovim that is:
